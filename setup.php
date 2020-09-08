@@ -26,7 +26,7 @@ function plugin_version_autoremove() {
         'name'           => 'Autoremove',
         'version'        => AUTOREMOVE_VERSION,
         'author'         => 'Tom Marti',
-        'license'        => 'GLPv3',
+        'license'        => 'GPLv3',
         'homepage'       => 'https://github.com/TomMarti/autoremove',
         'requirements'   => [
             'glpi'   => [
