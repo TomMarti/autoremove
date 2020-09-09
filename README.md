@@ -1,5 +1,5 @@
 # autoremove
-A GLPI plugin for removing automatically the unused softwares of your parc
+A GLPI plugin for removing automatically the unused softwares of your IT parc 
 
 # how it work
 The plugin will add a cleaning task into the database
